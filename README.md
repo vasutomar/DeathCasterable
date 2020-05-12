@@ -1,2 +1,0 @@
-# DeathCasterable
-A personal blog
